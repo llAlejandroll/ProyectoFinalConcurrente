@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.general{
+    margin: auto;
+    margin-top:10px;
+   
+    width:920px;
+    height:800px;
+    
+     
+}
+
+.navegacion{
+    width:1240px;
+    margin-left:0px;
+   
+    height:55px;
+    
+    
+}
+
+.bod{
+    margin-top:10px;
+    width:824px;
+    margin-left:45px;
+    border:3px solid black;
+    height: 780px;
+    bottom:0px;
+right:0px;
+    background-color:#F0F3F4    ;
+}
+.titulo{
+    background-color:black;
+}
+
+
